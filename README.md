@@ -16,6 +16,6 @@ so I could this project as a reference for future projects.
 
 ## Info
 
-Created on: `4/15/21`
-Skills learned: GO
+Created on: `4/15/21`/
+Skills learned: GO/
 Project difficulty: 1/10
